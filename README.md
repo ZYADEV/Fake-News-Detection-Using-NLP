@@ -7,6 +7,11 @@ This project is a web application for classifying news as Fake or Real using Nat
 - Text preprocessing (tokenization, stopword removal, lemmatization)
 - Visual probability indicator for prediction
 - Uses a pre-trained model for classification
+
+## APP Link :
+
+[Fake News Detection App](https://fakeornot.streamlit.app/)
+
 ## DEMO
 
 <div>
